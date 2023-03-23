@@ -189,5 +189,4 @@
 </table>
 
 ### Portfolio
-
-<a href="[https://example.com](https://magik-potion.github.io/)">Portfolio</a>
+[https://magik-potion.github.io/](https://magik-potion.github.io/)
