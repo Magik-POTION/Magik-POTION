@@ -189,4 +189,4 @@
 </table>
 
 ### Portfolio
-[https://magik-potion.github.io/](https://magik-potion.github.io/)
+<a href="https://magik-potion.github.io" target="_blank">https://magik-potion.github.io</a>
