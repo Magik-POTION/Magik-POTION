@@ -26,7 +26,7 @@
         height="48"
         alt="CSS 3"
       />
-      <br /><strong>CSS 5</strong>
+      <br /><strong>CSS 3</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
