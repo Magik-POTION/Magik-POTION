@@ -188,5 +188,20 @@
   </tr>
 </table>
 
-### Portfolio
-<a href="https://magik-potion.github.io" target="_blank">https://magik-potion.github.io</a>
+### Projects
+
+<table>
+    <tr>
+        <td align="center" height="108" width="108">
+            <a href="https://magik-potion.github.io" target="_blank">
+              <img
+                src="https://cdn.jsdelivr.net/gh/Magik-POTION/Magik-POTION.github.io@main/public/favicon.png"
+                width="48"
+                height="48"
+                alt="Git"
+              />
+              <br /><strong>Portfolio</strong>
+            </a>
+        </td>
+    </tr>
+</table>
