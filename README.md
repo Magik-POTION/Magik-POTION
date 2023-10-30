@@ -1,7 +1,7 @@
 # ℹ️ Overview
 
 <div align="justify">
-    My name is K Truong and I am a Full Stack Software Engineer that finds purpose in pushing the forefront of humankind with technology
+    My name is K Truong and I am a Full Stack Software Engineer who finds purpose in pushing the forefront of humankind with technology
 </div>
 
 # 🔧 Technologies & Tools
@@ -157,24 +157,6 @@
         alt="Firebase"
       />
       <br /><strong>Firebase</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        width="48"
-        height="48"
-        alt="Docker"
-      />
-      <br /><strong>Docker</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
